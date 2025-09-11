@@ -1,0 +1,5 @@
+# Automatically normalize line endings for text files
+* text=auto
+
+# Keep node_modules out
+node_modules/** text eol=lf
